@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'body';
+  src: url('fonts/body.woff2') format('woff2'),
+    url('fonts/body.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'body';
+  src: url('fonts/body-bold.woff2') format('woff2'),
+    url('fonts/body-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'titles';
+  src: url('fonts/titles.woff2') format('woff2'),
+    url('fonts/titles.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: titles;
+  color: #2e3744;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-bottom: -0.5em;
+}
+
+html, body {
+  font-family: body;
+
+  color: rgba(46,55,68,.8);
+  background-color: #fafafa;
+}
+
+p, li {
+  line-height: 1.5em;
+}
+li {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}

@@ -11,6 +11,7 @@ There's nothing to see on this page, but maybe you're looking for:
 
  - Our [terms of service](/terms)
  - Our [privacy policy](/privacy)
+ - Our [security and privacy practices](/security-and-privacy)
  - Our [home page](https://greenlightready.com)
 
 

@@ -28,7 +28,7 @@ Note that we may be required to provide information to government entities such 
 
 ### We Monitor Our Employees, Not You
 
-We log who does everything in our backend system systems. All information typed into our backed is logged. We know exactly who has access what data and when. Additionally, we restrict the number of people who have access to sensitive data to the minimum required and train them to ensure they respect your rights.
+We log who does everything in our backend system systems. All information typed into our SSH sessions to our servers are logged. We know exactly who has access what data and when. Additionally, we restrict the number of people who have access to sensitive data to the minimum required and train them to ensure they respect your rights.
 
 ### Security Certifications
 
@@ -72,4 +72,3 @@ We use several third-party services to bring you Greenlight. For most of these s
 - **Airtable**: Some of our customers interact with third-parties to get social services. These social service requests may be managed through [Airtable](https://airtable.com/). Since we do not manage those third-parties, any information you send are governed by their privacy policies.
 - **Supply Hawk**: [Supply Hawk](https://supplyhawk.org/) provides our users with discounted PPE.  Any information you send to Supply Hawk for those orders is managed by their privacy policy.
 - **Honeybadger**: If the app on your phone crashes, we send an alert to [Honeybadger](https://www.honeybadger.io/). At this time, we do not have a BAA in place with Honeybadger.
-
